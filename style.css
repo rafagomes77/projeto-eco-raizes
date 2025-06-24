@@ -373,7 +373,7 @@ footer .container-grid{
 .icones-redes svg {
     width: 90px;
     
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     height: 70px;
     float: right;
